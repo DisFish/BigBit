@@ -160,7 +160,7 @@ You may choose a letter (in some cases several letters) all the coin's public ad
 
 Example:
 ```
-const uint64_t CRYPTONOTE_PUBLIC_ADDRESS_BASE58_PREFIX = 0xe9; // addresses start with "f"
+const uint64_t CRYPTONOTE_PUBLIC_ADDRESS_BASE58_PREFIX = 0x70ce; // addresses start with "bb"
 ```
 
 
