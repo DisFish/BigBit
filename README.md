@@ -56,7 +56,7 @@ Be default CryptoNote provides emission formula with slight decrease of block re
 
 Example:
 ```
-const unsigned EMISSION_SPEED_FACTOR = 18;
+const unsigned EMISSION_SPEED_FACTOR = 21;
 ```
 
 **3. Difficulty target** (src/CryptoNoteConfig.h)
