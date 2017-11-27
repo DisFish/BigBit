@@ -31,7 +31,7 @@ const char CRYPTONOTE_NAME[] = "BigBit";
 
 Example: 
 ```
-set_property(TARGET daemon PROPERTY OUTPUT_NAME "furiouscoind")
+set_property(TARGET daemon PROPERTY OUTPUT_NAME "BigBitd")
 ```
 
 **Note:** You should also change a repository name.
