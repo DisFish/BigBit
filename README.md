@@ -73,7 +73,7 @@ For most coins difficulty target is 60 or 120 seconds.
 
 Example:
 ```
-const uint64_t DIFFICULTY_TARGET = 120;
+const uint64_t DIFFICULTY_TARGET = 111;
 ```
 
 **4. Block reward formula**
